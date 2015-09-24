@@ -1,4 +1,6 @@
 # Jony Ive Slackbot Response
+## Add Jony to your slack team :smiley:
+
 When someone says
 ```
 Siri, give us a hint!
