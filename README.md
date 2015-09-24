@@ -34,7 +34,7 @@ Fundimentally thiner, lighter, more robust http://jonyivesvoice.com/ive/26.mp3
 A single piece of aluminum http://jonyivesvoice.com/ive/27.mp3
 Beautifully, Unapologetically Plastic http://jonyivesvoice.com/ive/28.mp3
 ```
-Contrbutors
+Contributors
 ==
 [John-lin](https://github.com/John-Lin), [lockys](https://github.com/lockys)
 
